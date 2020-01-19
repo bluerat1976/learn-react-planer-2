@@ -1,0 +1,39 @@
+.plannermain .header input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ffffff;
+    width: 165px;
+}
+
+.plannermain .header button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    margin-right: 10px;
+    background-color: #0066ff;
+    color: #ffffff;
+    border: 2px solid #1052b4;
+}
+
+.plannermain .header button:hover {
+    background-color: #003399;
+    border: 2px solis #161f31;
+}
+
+.plannermain .theList {
+    list-style: none;
+    padding-left: 0;
+    width: 250px;
+}
+
+.plannermain .theList li {
+    color: #333333;
+    background-color: #f2f8b8;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.plannermain .theList li:hover {
+    background-color: #ffe4e4;
+}
